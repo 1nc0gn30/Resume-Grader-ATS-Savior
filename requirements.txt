@@ -1,0 +1,6 @@
+customtkinter
+fpdf
+pymupdf
+requests
+streamlit
+matplotlib

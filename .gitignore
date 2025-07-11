@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+*.log
+*.bak
+
+# Virtual environment
+venv/
+.env/
+env/
+.venv/
+
+# Streamlit cache and temp
+.streamlit/
+.cache/
+.streamlit/config.toml
+*.streamlit-secret.toml
+
+# System
+.DS_Store
+Thumbs.db
+
+# Output & export
+*.pdf
+*.sqlite3
+*.db
+*.db-journal
+*.sqlite
+*.sqlite-journal
+*.log
+
+# IDE/editor junk
+.vscode/
+.idea/
+*.code-workspace
+
+# OS junk
+ehthumbs.db
+desktop.ini
+
+# Packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Reports
+data/reports/
+history.db
+
+newvenv/
